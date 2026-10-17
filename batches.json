@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "achievers-8-0",
+      "name": "Achievers 8.0",
+      "byName": "Rani Ma'am · Complete English Mastery Program",
+      "language": "Hinglish",
+      "previewImage": "assets/batch-achievers-8-0.webp",
+      "type": "CW_BATCH",
+      "category": "ssc",
+      "slug": "achievers-8-0",
+      "lectureCount": 772,
+      "noteCount": 882,
+      "subBatches": []
+    }
+  ]
+}
